@@ -11,6 +11,12 @@ img {
   margin: auto;
 }
 
+.hero{
+  display: block;
+  width: 100%;
+  margin: 0;
+}
+
 #first{
   display: flex;
   flex-wrap: nowrap;
