@@ -54,12 +54,22 @@ span{
   text-decoration: underline;
 }
 
-.top-img1 {
+/* .top-img1 {
   border-radius: 0;
   position: absolute;
 left: 780px;
   height: 60%;
   bottom: 200px;
+} */
+
+.top-img1 {
+    border-radius: 0;
+    position: absolute;
+    /* left: 780px; */
+    height: 200px;
+    /* bottom: 200px; */
+    top: 20px;
+    left: 650px;
 }
 
 .top-img2 {
