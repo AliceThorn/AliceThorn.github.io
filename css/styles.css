@@ -150,7 +150,7 @@ margin: auto 5%;
    text-decoration: none;
 }
 
-.name:hover {
+a.name:hover {
    color: #000000;
 }
 
